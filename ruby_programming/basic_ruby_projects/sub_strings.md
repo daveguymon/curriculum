@@ -545,4 +545,5 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * [shanedgilbert's Solution](https://github.com/shanedgilbert/Ruby-Methods/blob/master/sub_strings.rb)
 * [bhenning83's Solution](https://github.com/bhenning83/substrings/blob/master/substrings.rb)
 * [satchelsmidt's Solution](https://github.com/satchelsmidt/Odin_Project_Ruby/blob/master/02_substrings.rb)
+* [Dave Guymon's Solution](https://github.com/daveguymon/the_odin_project/blob/master/ruby_programming/sub_strings.rb)
 </details>
